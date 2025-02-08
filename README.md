@@ -1,7 +1,8 @@
 # SGE_BLOC2
 
 
-_**![connection DATABASE.png](bloc2_DAHAO/Fotos/connection%20DATABASE.png)
+_**![connection DATABASE.png]![Captura de la conexión]![baixa](https://github.com/user-attachments/assets/f558413f-285c-40c6-b873-fc33aafd0b17)
+
 PAS 5
 Podem veure com obrim la connexió i la tanquem amb èxit, com 
 
