@@ -8,6 +8,7 @@ Si la conexión es exitosa, se imprime el objeto de conexión. Si falla, se mues
 
 ![Captura de la conexión]![baixa](https://github.com/user-attachments/assets/f558413f-285c-40c6-b873-fc33aafd0b17)
 
+![Captura de pantalla 2025-02-08 154227](https://github.com/user-attachments/assets/e389222a-c1ac-4280-83b8-eb03f599c0a2)
 
 
 ![image](https://github.com/user-attachments/assets/20eb8644-9a1d-45bf-b2e5-c8b790aa86d2)
